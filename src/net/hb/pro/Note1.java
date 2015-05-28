@@ -12,7 +12,7 @@ public class Note1 extends Frame implements Runnable , ActionListener, WindowLis
 		Choice ch2=new Choice();
 		private  int port = 8000 ;
 		private String user ="";
-		private String host =""; 
+		private String host ="";  
 		private  JButton hostcl = new JButton("접속");
 		private  JButton jname = new JButton("입장");
 		private  JButton jname2 = new JButton("변경");
